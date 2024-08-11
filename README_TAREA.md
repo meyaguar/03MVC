@@ -2,7 +2,7 @@
 
 ## Informe de Tarea
 
-En este repositorio se presenta el resultado de las actividades realizadas para cumplir con la tarea solicitada de implementar CRUD (Crear, Leer, Actualizar, Eliminar) para Clientes y Productos a nivel de modelos y controladores.
+En este repositorio se presenta el resultado de las actividades realizadas para cumplir con la tarea solicitada de implementar CRUD (Crear, Leer, Actualizar, Eliminar) a nivel de modelos y controladores para Clientes y Productos.
 
 ### Desarrollo en PHP
 
