@@ -6,9 +6,7 @@ En este repositorio se presenta el resultado de las actividades realizadas para 
 
 ### Desarrollo en PHP
 
-#### Modificaciones y Creaciones
-
-* Se modificó la clase `Conectar` en `config.php` para devolver la conexión como objeto, utilizar excepciones para manejo de errores y crear constantes para credenciales de la base de datos.
+* Se modificó la clase `Conectar` en `config.php` para devolver la conexión como objeto, utilizar excepciones para manejo de errores y usar constantes para credenciales de la base de datos.
 * Se crearon los siguientes archivos:
 	+ `clientes.model.php`
 	+ `clientes.controller.php`
@@ -18,8 +16,6 @@ En este repositorio se presenta el resultado de las actividades realizadas para 
 * Se crearon scripts en PHP para probar el buen funcionamiento de los archivos creados.
 
 ### Desarrollo en Angular
-
-#### Modificaciones y Creaciones
 
 * Se modificó `app.component` para habilitar la navegación entre opciones.
 * Se modificó `app.routes.ts` para configurar las rutas.
