@@ -1,6 +1,6 @@
 # Contenido de Frecuente 1 - P1: CRUD de Clientes y Productos
 
-## Informe de Tarea
+## Informe de Actividades
 
 En este repositorio se presenta el resultado de las actividades realizadas para cumplir con la tarea solicitada de implementar CRUD (Crear, Leer, Actualizar, Eliminar) a nivel de modelos y controladores para Clientes y Productos.
 
